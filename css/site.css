@@ -1,0 +1,27 @@
+html {
+	height: 100%;
+	background: url(../img/bg-kl.jpg) no-repeat center;
+	background-size: cover;
+}
+body {
+	background: rgba(255,217,66, 0.7);
+	height: 100%;
+}
+
+#logo {
+	background: url(../img/logo-black.png) no-repeat center;
+	background-size: auto 80px;
+	height: 100px;
+	width: 100%;
+	display: block;
+	text-indent: -9999px;
+	margin-top: 200px;
+}
+
+.email {
+	font-size: 90%;
+	line-height: 2;
+	text-align: center;
+	color: #333;
+	margin-top: 50px;
+}
